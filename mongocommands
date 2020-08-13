@@ -1,0 +1,2 @@
+Step to update data
+db.user.update({_id:1},{$set:{"class":}})
